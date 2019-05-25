@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.yiyi.app",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "gateway",
+    "baseName": "gateway",
+    "packageName": "com.yiyi.app",
+    "packageFolder": "com/yiyi/app",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YWUxYzIwNzExYTA4MDk4MTA0MGM4MjU0M2YxNTI0OWMxZGYwMjI0YWNkZDRjZjBlNTEyYmI5OTlhYWY5MjljY2I2OTQ4Nzg3MWYzYWVlYjlmZjE2MGYzZGJkNGUzMGJlMDg1MzJlNDllMTM3MDI0MjMyYzczYjE2OGIwZmI3ZmI=",
+    "clientFramework": "react",
+    "clientTheme": "cerulean",
+    "clientThemeVariant": "primary",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn",
+      "en"
+    ]
+  }
+}
