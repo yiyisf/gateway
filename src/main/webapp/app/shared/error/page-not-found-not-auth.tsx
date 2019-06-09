@@ -4,7 +4,7 @@ import { Row, Col, Alert, Card, CardTitle, CardBody, CardImg, CardText, CardSubt
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Link } from 'react-router-dom';
 
-class PageNotFound extends React.Component {
+class PageNotFoundNotAuth extends React.Component {
   render() {
     return (
       <Row className="justify-content-center mb-5 mt-5">
@@ -32,4 +32,4 @@ class PageNotFound extends React.Component {
   }
 }
 
-export default PageNotFound;
+export default PageNotFoundNotAuth;

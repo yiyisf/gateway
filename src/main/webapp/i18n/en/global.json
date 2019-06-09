@@ -1,6 +1,6 @@
 {
   "global": {
-    "title": "Gateway",
+    "title": "YIYI APP",
     "browsehappy": "You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/?locale=en\">upgrade your browser</a> to improve your experience.",
     "menu": {
       "home": "Home",
@@ -17,6 +17,9 @@
         "login": "Sign in",
         "logout": "Sign out",
         "register": "Register"
+      },
+      "search": {
+        "placeholder": "Search"
       },
       "admin": {
         "main": "Administration",
@@ -133,5 +136,5 @@
     "idexists": "A new {{ entityName }} cannot already have an ID",
     "idnull": "Invalid ID"
   },
-  "footer": "This is your footer"
+  "footer": "Copyright © 2019 yiyi. All rights reserved."
 }

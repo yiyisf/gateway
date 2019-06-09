@@ -4,3 +4,9 @@
 * https://github.com/twbs/bootstrap/blob/v4-dev/scss/_variables.scss can be overwritten here
 * Make sure not to add !default to values here
 */
+
+$theme-heading-color: #111;
+$theme-color: linear-gradient(-135deg, #1de9b6 0%, #1dc4e9 100%);
+$theme-color2: linear-gradient(-135deg, #899fd4 0%, #a389d4 100%);
+$primary-color: #04a9f5;
+$success-color: #1de9b6;
